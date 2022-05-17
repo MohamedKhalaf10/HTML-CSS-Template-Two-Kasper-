@@ -198,7 +198,7 @@ header nav .search i {
 /* Start Landing */
 .landing {
   position: relative;
-  background-image: url(../images/landing.webp);
+  background-image: url(../media/landing.webp);
   background-size: cover;
   background-color: #1f2021;
   min-height: 100vh;
@@ -337,7 +337,7 @@ header nav .search i {
 }
 .services .services-background {
   position: relative;
-  background-image: url(../images/services.webp);
+  background-image: url(../media/services.webp);
   background-size: cover;
   min-height: 70vh;
   margin-top: 100px;
@@ -626,7 +626,7 @@ header nav .search i {
 
 .about .about-background {
   position: relative;
-  background-image: url(../images/about.webp);
+  background-image: url(../media/about.webp);
   background-size: cover;
   min-height: 60vh;
   text-align: center;
@@ -901,7 +901,7 @@ header nav .search i {
 }
 .testmonials-skills .testmonials-skills-background {
   position: relative;
-  background-image: url(../images/testmonials-skills.webp);
+  background-image: url(../media/testmonials-skills.webp);
   background-size: cover;
   min-height: 60vh;
   margin-top: 100px;
@@ -1054,7 +1054,7 @@ header nav .search i {
 }
 .pricing .pricing-background {
   position: relative;
-  background-image: url(../images/pricing.webp);
+  background-image: url(../media/pricing.webp);
   background-size: cover;
   padding-top: 90px;
   padding-bottom: 50px;
@@ -1216,7 +1216,7 @@ header nav .search i {
 /* Start Footer */
 footer {
   position: relative;
-  background-image: url(../images/footer.webp);
+  background-image: url(../media/footer.webp);
   background-size: cover;
   height: 50vh;
 }
